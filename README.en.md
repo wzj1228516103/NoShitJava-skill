@@ -14,6 +14,8 @@ English · [简体中文](README.md) · [日本語](README.ja.md) · [Español](
 [![CI](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Theory: No-Shit](https://img.shields.io/badge/theory-No--Shit-2563EB)](THEORY.md)
+[![Side effect: maintainable code](https://img.shields.io/badge/side__effect-maintainable__code-success)](THEORY.md)
 
 ![NoShitJava-skill architecture: root routing, seven entries, on-demand rule library, project config, and evaluation regressions](data/images/noshitjava-skill-architecture.png)
 
@@ -31,7 +33,7 @@ Sibling of the Big Water theory (drink more water) and the Big Sleep theory (sle
 
 > A shit mountain is never written in one sitting — it accretes one "this is fine for now, we'll fix it later" at a time.
 
-Three commandments: **think before you build; back boundaries and failure paths with tests; never compromise on security or data correctness.** This skill puts the theory into practice for AI — seven entries that enforce the commandments, rules taken on demand.
+Three commandments: **think before you build; back boundaries and failure paths with tests; never compromise on security or data correctness.** This skill puts the theory into practice for AI — seven entries that enforce the commandments, rules taken on demand. Full text: the [No-Shit Theory Manifesto](THEORY.md) (Chinese).
 
 ## Seven Entries
 

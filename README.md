@@ -14,6 +14,8 @@
 [![CI](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![理论：无屎理论](https://img.shields.io/badge/理论-无屎理论-2563EB)](THEORY.md)
+[![副作用：代码变得可维护](https://img.shields.io/badge/副作用-代码变得可维护-success)](THEORY.md)
 
 ![NoShitJava-skill 项目架构：总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
 
@@ -31,7 +33,7 @@ NoShitJava-skill 面向 Java/Spring 后端项目，基于《Java 开发手册（
 
 > 屎山不是一次写成的，是每一次“先这样，回头再改”堆出来的。
 
-三条戒律：**想清楚再动手；边界与失败路径有测试兜底；安全与数据红线不让步。** 本 Skill 就是无屎理论的落地工具——七个入口把戒律交给 AI 执行，规约按需服用。
+三条戒律：**想清楚再动手；边界与失败路径有测试兜底；安全与数据红线不让步。** 本 Skill 就是无屎理论的落地工具——七个入口把戒律交给 AI 执行，规约按需服用。理论全文见[《无屎理论宣言》](THEORY.md)。
 
 ## 七个入口
 
