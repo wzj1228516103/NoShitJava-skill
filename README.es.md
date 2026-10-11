@@ -25,6 +25,14 @@ NoShitJava-skill está pensado para proyectos backend Java/Spring. Se basa en el
 
 Para la documentación completa de reglas, la estructura del repositorio y el mantenimiento, consulta el [README detallado](README-DETAILS.md) (en chino).
 
+## La teoría No-Shit-Mountain
+
+Hermana de la teoría del Agua Grande (bebe más agua) y la del Sueño Grande (duerme más), pero gobierna la tercera gran cosa de tu día: **escribir código**. En una frase:
+
+> Una montaña de mierda nunca se escribe de una sola vez — se acumula un "así vale por ahora, ya lo arreglaremos" cada vez.
+
+Tres mandamientos: **piensa antes de construir; respalda los límites y los caminos de fallo con pruebas; nunca negocies la seguridad ni la corrección de datos.** Este skill pone la teoría en práctica con IA — siete entradas que la hacen cumplir, normas bajo demanda.
+
 ## Siete entradas
 
 | Entrada | Úsala para | Entregable principal |
