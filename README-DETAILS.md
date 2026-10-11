@@ -1,8 +1,9 @@
-# Java Developer Skill
+# NoShitJava-skill
 
 <div align="center">
-  <img src="data/images/java-developer-skill-logo.png" alt="Java Developer Skill 项目视觉图" width="260">
-  <p><strong>基于 AI 的 Java 开发全流程助手</strong></p>
+  <img src="data/images/noshitjava-skill-logo.png" alt="NoShitJava-skill 项目视觉图" width="260">
+  <p><strong>无屎山 Java —— 基于 AI 的 Java 开发全流程助手</strong><br>
+  <sub>A Java development skill for keeping codebases maintainable.</sub></p>
 </div>
 
 > 面向 Java/Spring 后端项目的可按需加载 Skill：让代码生成、接口设计、数据库变更、代码 Review 和测试补全遵循一致的生产级约束。
@@ -17,7 +18,7 @@
 
 ## 项目总览
 
-![Java Developer Skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/java-developer-skill-overview.png)
+![NoShitJava-skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/noshitjava-skill-overview.png)
 
 本项目提供七种 Java 后端工作模式，覆盖开发、设计、Review、测试、修复、重构和规则查询。记不住入口名称也没关系，直接用日常语言描述任务即可。安装和使用方法见[安装](#安装)与[使用示例](#使用示例)。
 
@@ -59,7 +60,7 @@ Java 后端代码的问题通常不在“能不能编译”，而在于隐含的
 
 **设计目标**：将容易遗漏的项目契约和工程风险整理成**结构化、可按需检索**的约束。整份手册一次性加载会增加上下文成本，因此只在相关规则会改变答案时读取它。Skill 不保证比模型原有能力更好，效果需要用真实任务验证。
 
-Java Developer Skill 将规则、公共契约和代码模板组合起来，并根据项目实际技术栈按需加载，不把某个团队的实现细节伪装成通用标准。
+NoShitJava-skill 将规则、公共契约和代码模板组合起来，并根据项目实际技术栈按需加载，不把某个团队的实现细节伪装成通用标准。
 
 ## 为什么以黄山版为核心基线
 
@@ -185,10 +186,10 @@ Java 代码通过编译、接口返回 200，并不代表它适合长期运行�
 
 ## 安装
 
-在终端运行这条命令，就能把 Java Developer Skill 安装到 Codex：
+在终端运行这条命令，就能把 NoShitJava-skill 安装到 Codex：
 
 ```bash
-npx skills add https://github.com/wzj1228516103/java-developer-skill -g -a codex -y
+npx skills add https://github.com/wzj1228516103/NoShitJava-skill -g -a codex -y
 ```
 
 Windows PowerShell 也可以直接运行同一条命令。安装后运行下面的命令，检查它是否已经装好：
@@ -197,20 +198,20 @@ Windows PowerShell 也可以直接运行同一条命令。安装后运行下面�
 npx skills list -g -a codex
 ```
 
-看到 `java-developer-skill` 就表示安装完成。重新打开 Codex，在消息里输入 `$java-developer-skill`，再接着写你的任务。若找不到它，重启 Codex 后再检查一次。
+看到 `noshitjava-skill` 就表示安装完成。重新打开 Codex，在消息里输入 `$noshitjava-skill`，再接着写你的任务。若找不到它，重启 Codex 后再检查一次。
 
 如果当前环境不能使用 `npx skills`，也可以先完整克隆仓库，再按宿主的 Skill 目录导入：
 
 ```bash
-git clone https://github.com/wzj1228516103/java-developer-skill.git \
-  ~/.codex/skills/java-developer-skill
+git clone https://github.com/wzj1228516103/NoShitJava-skill.git \
+  ~/.codex/skills/noshitjava-skill
 ```
 
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/wzj1228516103/java-developer-skill.git `
-  "$env:USERPROFILE\.codex\skills\java-developer-skill"
+git clone https://github.com/wzj1228516103/NoShitJava-skill.git `
+  "$env:USERPROFILE\.codex\skills\noshitjava-skill"
 ```
 
 请保留仓库中的 `SKILL.md`、`skills/` 和 `data/`；只复制某一个 `skills/java-*` 子目录可能找不到它引用的共享规则。
@@ -284,7 +285,7 @@ message_queue: rocketmq
 ## 仓库结构
 
 ```text
-java-developer-skill/
+noshitjava-skill/
 ├── .codex-plugin/
 │   └── plugin.json             # Codex 插件清单
 ├── .github/                    # Issue、PR 模板和 CI

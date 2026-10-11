@@ -1,5 +1,5 @@
 {
-  "name": "java-developer-skill",
+  "name": "noshitjava-skill",
   "version": "0.5.0",
   "entries": [
     {"name": "java-dev", "path": "skills/java-dev", "description": "新功能开发和代码生成"},

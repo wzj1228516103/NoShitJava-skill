@@ -1,6 +1,6 @@
 # 贡献指南
 
-感谢参与 Java Developer Skill。贡献应尽量让 Skill 更准确、更轻量，而不是机械增加规则数量。参与讨论和提交贡献时请遵守[行为准则](CODE_OF_CONDUCT.md)。
+感谢参与 NoShitJava-skill。贡献应尽量让 Skill 更准确、更轻量，而不是机械增加规则数量。参与讨论和提交贡献时请遵守[行为准则](CODE_OF_CONDUCT.md)。
 
 ## 本地验证
 

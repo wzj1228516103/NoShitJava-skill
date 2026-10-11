@@ -54,7 +54,7 @@ function Check-Fixture {
     }
     $imageFixture = Join-Path $fixture "data/images"
     New-Item -ItemType Directory -Path $imageFixture -Force | Out-Null
-    foreach ($image in @("java-developer-skill-logo.png", "java-developer-skill-overview.png")) {
+    foreach ($image in @("noshitjava-skill-logo.png", "noshitjava-skill-overview.png")) {
         [IO.File]::WriteAllBytes((Join-Path $imageFixture $image), [byte[]]@())
     }
     $evalFiles = @(

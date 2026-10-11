@@ -1,4 +1,4 @@
-# Java Developer Skill 评测
+# NoShitJava-skill 评测
 
 本目录使用 [skill-up](https://github.com/alibaba/skill-up) 对同一批 Java/Spring 后端任务进行 `with_skill` 与 `without_skill` 配对评测。配置、用例、Judge、回归脚本和精简后的指标文件随仓库发布；原始答案、Agent/Judge trace、HTML 报告和运行日志不纳入仓库。
 

@@ -1,22 +1,23 @@
-# Java Developer Skill
+# NoShitJava-skill
 
 <div align="center">
-  <img src="data/images/java-developer-skill-logo.png" alt="Java Developer Skill 项目视觉图" width="260">
-  <p><strong>基于 AI 的 Java 开发全流程助手</strong></p>
+  <img src="data/images/noshitjava-skill-logo.png" alt="NoShitJava-skill 项目视觉图" width="260">
+  <p><strong>无屎山 Java —— 基于 AI 的 Java 开发全流程助手</strong><br>
+  <sub>A Java development skill for keeping codebases maintainable.</sub></p>
 </div>
 
 > 面向 Java/Spring 后端项目的可按需加载 Skill：让代码生成、接口设计、数据库变更、代码 Review 和测试补全遵循一致的生产级约束。
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![CI](https://github.com/wzj1228516103/java-developer-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/java-developer-skill/actions/workflows/quality.yml)
+[![CI](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 
-![Java Developer Skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/java-developer-skill-overview.png)
+![NoShitJava-skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/noshitjava-skill-overview.png)
 
 ## 项目简介
 
-Java Developer Skill 面向 Java/Spring 后端项目，基于《Java 开发手册（黄山版）》并补充常见工程实践。它会按任务读取相关规则，帮助完成开发、设计、Review、测试、修复、重构和规范查询；不替代项目约定或安全审查。
+NoShitJava-skill 面向 Java/Spring 后端项目，基于《Java 开发手册（黄山版）》并补充常见工程实践。它会按任务读取相关规则，帮助完成开发、设计、Review、测试、修复、重构和规范查询；不替代项目约定或安全审查。
 
 想查看完整的规则说明、仓库结构和维护方法，请阅读[详细版 README](README-DETAILS.md)。
 
@@ -59,10 +60,10 @@ Java Developer Skill 面向 Java/Spring 后端项目，基于《Java 开发手�
 
 ## 安装
 
-在终端运行这条命令，就能把 Java Developer Skill 安装到 Codex：
+在终端运行这条命令，就能把 NoShitJava-skill 安装到 Codex：
 
 ```bash
-npx skills add https://github.com/wzj1228516103/java-developer-skill -g -a codex -y
+npx skills add https://github.com/wzj1228516103/NoShitJava-skill -g -a codex -y
 ```
 
 安装后运行下面的命令，检查它是否已经装好：
@@ -71,7 +72,7 @@ npx skills add https://github.com/wzj1228516103/java-developer-skill -g -a codex
 npx skills list -g -a codex
 ```
 
-看到 `java-developer-skill` 就表示安装完成。重新打开 Codex，在消息里输入 `$java-developer-skill`，再接着写你的任务。若找不到它，重启 Codex 后再检查一次。
+看到 `noshitjava-skill` 就表示安装完成。重新打开 Codex，在消息里输入 `$noshitjava-skill`，再接着写你的任务。若找不到它，重启 Codex 后再检查一次。
 
 ## 使用示例
 

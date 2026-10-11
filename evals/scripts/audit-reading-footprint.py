@@ -30,7 +30,7 @@ for path in sorted(root.glob("iteration-*/*/*/outputs/agent/run/stdout.json")):
         if "SKILL.md" in command:
             output = item.get("aggregated_output", "")
             target = any(f"name: {name}" in output for name in (
-                "java-developer-skill", "java-dev", "java-review", "java-design", "java-test",
+                "noshitjava-skill", "java-dev", "java-review", "java-design", "java-test",
                 "java-fix", "java-refactor", "java-rules"))
             skill_reads.append({"command": command, "exit_code": item.get("exit_code"),
                                 "target_skill_content_returned": target,

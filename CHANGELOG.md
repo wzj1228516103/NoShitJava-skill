@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 
+- 项目更名为 NoShitJava-skill（无屎山 Java）：Skill 标识符改为 `noshitjava-skill`，README、插件清单、注册表、安装命令和仓库图片名同步更新。
 - 为 Pull Request 增加 Windows/Ubuntu 结构检查和 Ubuntu 离线评测回归，要求默认分支通过检查后再合并。
 - 更新 GitHub Actions 运行时，并修复 Judge 回归在跨平台 shell 下未显式返回成功码的问题。
 - 补充第三方来源与许可证说明、行为准则及贡献者测试步骤。
