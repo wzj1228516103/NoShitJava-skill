@@ -284,6 +284,8 @@ message_queue: rocketmq
 
 ## 仓库结构
 
+![NoShitJava-skill 项目架构:总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
+
 ```text
 noshitjava-skill/
 ├── .codex-plugin/
