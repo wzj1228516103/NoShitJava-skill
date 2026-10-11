@@ -13,7 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 
-![NoShitJava-skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/noshitjava-skill-overview.png)
+![NoShitJava-skill 项目架构：总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
 
 ## 项目简介
 
