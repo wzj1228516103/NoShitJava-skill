@@ -50,7 +50,7 @@ The same set of Java/Spring tasks was evaluated with and without the skill and s
 | **Worst-case average quality rate (holdout-v6)** | **100.00%** | 77.78% | **+22.22pp** |
 | **Average quality-assertion pass rate (eval-v9)** | **100.00%** | 91.67% | **+8.33pp** |
 
-Quality-assertion pass rates are counted over Judge quality assertions and exclude the `expect` gate. Evaluation configs, cases, and metrics live in [`evals/`](evals/README.md). The source tasks participated in tuning, so these results serve as regression verification, not evidence of independent generalization gains.
+Quality-assertion pass rates are counted over Judge (automated grader) quality assertions and exclude the `expect` gate. holdout-v6 is the held-out task set and eval-v9 the main suite; their evaluation configs, cases, and metrics live in [`evals/`](evals/README.md). The source tasks participated in tuning, so these results serve as regression verification, not evidence of independent generalization gains.
 
 ## Coverage
 
