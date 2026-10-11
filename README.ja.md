@@ -14,6 +14,8 @@
 [![CI](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![理論：無屎理論](https://img.shields.io/badge/理論-無屎理論-2563EB)](THEORY.md)
+[![副作用：保守性向上](https://img.shields.io/badge/副作用-保守性向上-success)](THEORY.md)
 
 ![NoShitJava-skill アーキテクチャ：ルーティング、7 つのエントリ、オンデマンドのルールライブラリ、プロジェクト設定と評価リグレッション](data/images/noshitjava-skill-architecture.png)
 
@@ -31,7 +33,7 @@ NoShitJava-skill は Java/Spring バックエンド向けで、『Alibaba Java �
 
 > 屎山は一度で書かれるものではない。「とりあえず今はこう、後で直そう」が積もってできるものだ。
 
-三か条：**書く前に設計する。境界と失敗パスはテストで守る。セキュリティとデータ正確性の赤線は譲らない。** 本スキルはこの理論を AI に実践させるための道具——7 つのエントリで三か条を守らせ、規約はオンデマンドで服用します。
+三か条：**書く前に設計する。境界と失敗パスはテストで守る。セキュリティとデータ正確性の赤線は譲らない。** 本スキルはこの理論を AI に実践させるための道具——7 つのエントリで三か条を守らせ、規約はオンデマンドで服用します。理論の全文は[『無屎理論宣言』](THEORY.md)（中国語）で。
 
 ## 7 つのエントリ
 

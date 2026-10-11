@@ -14,6 +14,8 @@
 [![CI](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/wzj1228516103/NoShitJava-skill/actions/workflows/quality.yml)
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Teoría: No-Shit](https://img.shields.io/badge/teoría-No--Shit-2563EB)](THEORY.md)
+[![Efecto secundario: código mantenible](https://img.shields.io/badge/efecto__secundario-código__mantenible-success)](THEORY.md)
 
 ![Arquitectura de NoShitJava-skill: enrutamiento raíz, siete entradas, biblioteca de reglas bajo demanda, configuración de proyecto y regresiones de evaluación](data/images/noshitjava-skill-architecture.png)
 
@@ -31,7 +33,7 @@ Hermana de la teoría del Agua Grande (bebe más agua) y la del Sueño Grande (d
 
 > Una montaña de mierda nunca se escribe de una sola vez — se acumula un "así vale por ahora, ya lo arreglaremos" cada vez.
 
-Tres mandamientos: **piensa antes de construir; respalda los límites y los caminos de fallo con pruebas; nunca negocies la seguridad ni la corrección de datos.** Este skill pone la teoría en práctica con IA — siete entradas que la hacen cumplir, normas bajo demanda.
+Tres mandamientos: **piensa antes de construir; respalda los límites y los caminos de fallo con pruebas; nunca negocies la seguridad ni la corrección de datos.** Este skill pone la teoría en práctica con IA — siete entradas que la hacen cumplir, normas bajo demanda. Texto completo: el [Manifiesto de la Teoría No-Shit](THEORY.md) (en chino).
 
 ## Siete entradas
 
