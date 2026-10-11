@@ -1,5 +1,7 @@
 # NoShitJava-skill
 
+简体中文 · [English](README.en.md) · [日本語](README.ja.md) · [Español](README.es.md)
+
 <div align="center">
   <img src="data/images/noshitjava-skill-logo.png" alt="NoShitJava-skill 项目视觉图" width="260">
   <p><strong>无屎山 Java —— 基于 AI 的 Java 开发全流程助手</strong><br>
