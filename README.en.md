@@ -25,6 +25,14 @@ NoShitJava-skill targets Java/Spring backend projects. It builds on the Alibaba 
 
 For the full rule documentation, repository layout, and maintenance guide, read the [detailed README](README-DETAILS.md) (Chinese).
 
+## The No-Shit Theory
+
+Sibling of the Big Water theory (drink more water) and the Big Sleep theory (sleep more), governing the third big thing in your day: **writing code**. One sentence:
+
+> A shit mountain is never written in one sitting — it accretes one "this is fine for now, we'll fix it later" at a time.
+
+Three commandments: **think before you build; back boundaries and failure paths with tests; never compromise on security or data correctness.** This skill puts the theory into practice for AI — seven entries that enforce the commandments, rules taken on demand.
+
 ## Seven Entries
 
 | Entry | Use it to | Primary deliverable |
