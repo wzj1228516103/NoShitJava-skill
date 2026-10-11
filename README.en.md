@@ -25,7 +25,7 @@ NoShitJava-skill targets Java/Spring backend projects. It builds on the Alibaba 
 
 For the full rule documentation, repository layout, and maintenance guide, read the [detailed README](README-DETAILS.md) (Chinese).
 
-## The No-Shit-Mountain Theory
+## The No-Shit Theory
 
 Sibling of the Big Water theory (drink more water) and the Big Sleep theory (sleep more), governing the third big thing in your day: **writing code**. One sentence:
 

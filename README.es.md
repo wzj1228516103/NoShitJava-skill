@@ -25,7 +25,7 @@ NoShitJava-skill está pensado para proyectos backend Java/Spring. Se basa en el
 
 Para la documentación completa de reglas, la estructura del repositorio y el mantenimiento, consulta el [README detallado](README-DETAILS.md) (en chino).
 
-## La teoría No-Shit-Mountain
+## La teoría No-Shit
 
 Hermana de la teoría del Agua Grande (bebe más agua) y la del Sueño Grande (duerme más), pero gobierna la tercera gran cosa de tu día: **escribir código**. En una frase:
 

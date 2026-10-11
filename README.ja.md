@@ -25,7 +25,7 @@ NoShitJava-skill は Java/Spring バックエンド向けで、『Alibaba Java �
 
 ルールの詳細、リポジトリ構成、メンテナンス方法は[詳細版 README](README-DETAILS.md)（中国語）をご覧ください。
 
-## 屎山なし理論（No-Shit-Mountain Theory）
+## 無屎理論（No-Shit Theory）
 
 「大水理論（水をたくさん飲む）」「大睡理論（たくさん寝る）」の兄弟分として、一日の 3 番目の大事——**コードを書くこと**——を担当します。核心は一句：
 
