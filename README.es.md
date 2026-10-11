@@ -50,7 +50,7 @@ El mismo conjunto de tareas Java/Spring se evaluó con y sin el skill, puntuando
 | **Tasa de calidad media del peor caso (holdout-v6)** | **100.00%** | 77.78% | **+22.22pp** |
 | **Tasa de aprobación media de aserciones de calidad (eval-v9)** | **100.00%** | 91.67% | **+8.33pp** |
 
-Las tasas de aserciones de calidad se contabilizan sobre las aserciones del Judge y excluyen el umbral `expect`. Las configuraciones, casos y métricas están en [`evals/`](evals/README.md). Las tareas de origen participaron en el ajuste, así que estos resultados sirven como verificación de regresión, no como prueba de ganancias de generalización independientes.
+Las tasas de aserciones de calidad se contabilizan sobre las aserciones del Judge (evaluador automático) y excluyen el umbral `expect`. holdout-v6 es el conjunto de tareas reservado para verificación y eval-v9 la suite principal; las configuraciones, casos y métricas están en [`evals/`](evals/README.md). Las tareas de origen participaron en el ajuste, así que estos resultados sirven como verificación de regresión, no como prueba de ganancias de generalización independientes.
 
 ## Cobertura
 
