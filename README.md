@@ -15,6 +15,8 @@
 
 ![NoShitJava-skill 项目架构：总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
 
+![NoShitJava-skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/noshitjava-skill-overview.png)
+
 ## 项目简介
 
 NoShitJava-skill 面向 Java/Spring 后端项目，基于《Java 开发手册（黄山版）》并补充常见工程实践。它会按任务读取相关规则，帮助完成开发、设计、Review、测试、修复、重构和规范查询；不替代项目约定或安全审查。
