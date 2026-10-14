@@ -17,9 +17,9 @@
 [![理论：无屎理论](https://img.shields.io/badge/理论-无屎理论-2563EB)](THEORY.md)
 [![副作用：代码变得可维护](https://img.shields.io/badge/副作用-代码变得可维护-success)](THEORY.md)
 
-![NoShitJava-skill 项目架构：总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
+![NoShitJava-skill 项目介绍：无屎理论、七个入口、效果验证与覆盖范围](data/images/noshitjava-skill-introduction.png)
 
-![NoShitJava-skill 项目整体介绍：七个开发流程入口、技术栈与工程能力](data/images/noshitjava-skill-overview.png)
+![NoShitJava-skill 项目架构：总纲路由、七个入口、按需加载的规则库、项目配置与评测回归](data/images/noshitjava-skill-architecture.png)
 
 ## 项目简介
 
